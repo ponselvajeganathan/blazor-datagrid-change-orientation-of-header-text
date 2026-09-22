@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to change the orientation of column header text in the Syncfusion Blazor DataGrid using custom CSS styles. The implementation uses a Blazor page that hosts an `SfGrid` component and applies CSS-based customization to modify the visual presentation of column headers. Rotating or displaying header text vertically helps optimize horizontal space usage, making it easier to display multiple columns within a limited viewport while maintaining readability and a clean layout.
+This sample demonstrates how to change the orientation of column header text in the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) using custom CSS styles. The implementation uses a Blazor page that hosts an `SfGrid` component and applies CSS-based customization to modify the visual presentation of column headers. Rotating or displaying header text vertically helps optimize horizontal space usage, making it easier to display multiple columns within a limited viewport while maintaining readability and a clean layout.
 
 ## Key Features
 
